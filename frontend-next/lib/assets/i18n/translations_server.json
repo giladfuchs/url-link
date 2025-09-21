@@ -1,0 +1,271 @@
+{
+  "he": {
+    "login.title": "התחברו כדי לצפות בסטטיסטיקות ולעקוב אחרי הביצועים של הקישורים שלכם",
+    "home.title": "ברוכים הבאים URL-LINK",
+    "home.subtitle": "קיצור כתובות אינטרנט – מהיר, פשוט, מאובטח וחינמי לחלוטין",
+    "home.description1": "הפכו לינקים ארוכים לכתובות קצרות ומקצועיות + קוד QR",
+    "home.description2": "עקבו אחר כל קליק, נתחו נתונים וקבלו תובנות – הכול בחינם",
+    "footer.copyright": "כל הזכויות שמורות - URL-LINK © 2025",
+    "footer.terms": "תקנון",
+    "footer.contact": "צור קשר",
+
+    "home.seo.title": "קיצור לינק | קיצור קישור בחינם עם סטטיסטיקות מתקדמות",
+    "home.seo.description": "שירות קיצור לינקים וקישורים בחינם בעברית עם אפשרות לקיצור url מותאם אישית, אלטרנטיבה מהירה ופשוטה ל-Bitly. קצרו קישורים לוואטסאפ, אינסטגרם, גוגל ועוד, וקבלו סטטיסטיקות מלאות בזמן אמת על כל קליק.",
+    "home.faq.title": "שאלות נפוצות",
+    "home.seo.lang": "he-IL",
+    "home.seo.offer.currency": "ILS",
+    "home.seo.app.name": "קיצור לינקים בחינם",
+
+    "home.seo.keywords": [
+      "קיצור לינק",
+      "קיצור קישור",
+      "קיצור לינקים",
+      "קיצור url",
+      "bit קיצור לינק",
+      "ביטלי קיצור לינק",
+      "קיצור לינק בחינם",
+      "קיצור לינק בהתאמה אישית",
+      "קיצור לינק לוואטסאפ",
+      "קיצור לינק לאינסטגרם",
+      "קיצור לינק גוגל",
+      "קיצור קישור וואטסאפ",
+      "קיצור קישור גוגל",
+      "קיצור קישור בחינם",
+      "קיצור קישור ביטלי",
+      "קיצור קישור אינטרנט",
+      "דידלי"
+    ],
+    "home.seo.features": [
+      "קיצור לינקים ו-URL ארוכים לקישורים קצרים ונוחים",
+      "יצירת קישורים מותאמים אישית בעברית ובאנגלית",
+      "סטטיסטיקות בזמן אמת: מספר קליקים, מכשירים ומקורות תנועה",
+      "אפשרות לייצר QR Code ישירות מכל קישור מקוצר",
+      "שיתוף קישורים מקוצרים בוואטסאפ, אינסטגרם ורשתות חברתיות נוספות",
+      "ממשק ניהול פשוט לניטור ומעקב אחרי הקישורים",
+      "שירות חינמי לתמיד – ללא הרשמה וללא הגבלה במספר הקישורים",
+      "תמיכה מלאה במובייל ובטאבלט",
+      "אלטרנטיבה ישראלית מהירה ופשוטה ל-Bitly, TinyURL ודידלי"
+    ],
+    "home.seo.faq": [
+      {
+        "name": "איך מקצרים לינק או קישור באתר?",
+        "text": "מדביקים את הקישור הארוך בשדה הקלט ולוחצים על כפתור הקיצור. מיד מתקבל קישור קצר ונקי לשיתוף בוואטסאפ, אינסטגרם, פייסבוק, גוגל וכל רשת אחרת. התהליך מהיר ופשוט."
+      },
+      {
+        "name": "האם קיצור לינק הוא בחינם?",
+        "text": "כן. קיצור לינקים וקישורים ניתן בחינם וללא הגבלה על מספר הקיצורים. אין צורך בהרשמה ואין עלויות נסתרות."
+      },
+      {
+        "name": "אפשר לבחור שם מותאם אישי לקישור?",
+        "text": "כן. ניתן לבחור שם קצר בעברית או באנגלית במקום רצף תווים אקראי. זה הופך את הקישור לייחודי, מקצועי וקל יותר לזכירה. לדוגמה: האתר-שלי/url-link.org"
+      },
+      {
+        "name": "איך מקבלים סטטיסטיקות על הקליקים?",
+        "text": "כל קישור מקוצר מגיע עם לוח סטטיסטיקות בזמן אמת: מספר קליקים, מדינות, מכשירים, מקורות תנועה ושעות פעילות. כלי חיוני לניהול קמפיינים דיגיטליים."
+      },
+      {
+        "name": "איך מקצרים לינקים לוואטסאפ ואינסטגרם?",
+        "text": "מדביקים את הקישור לוואטסאפ, אינסטגרם או כל פלטפורמה אחרת בשדה, מקצרים ומשתפים ישירות. הקישור הקצר נראה מקצועי, תופס פחות מקום ומעודד יותר לחיצות."
+      },
+      {
+        "name": "מה לגבי אבטחה ופרטיות של הקישורים?",
+        "text": "המערכת לא אוספת מידע אישי מיותר ופועלת עם הצפנה מתקדמת. כל הקישורים נשמרים בצורה מאובטחת עם אפשרות למחיקה בכל עת."
+      },
+      {
+        "name": "כמה זמן קישור קצר נשאר פעיל?",
+        "text": "קישורים קצרים נשארים פעילים ללא הגבלת זמן. כל עוד לא מחקתם אותם בלוח הניהול – הקישור ממשיך לעבוד."
+      },
+      {
+        "name": "יש מגבלה על כמות הקישורים שאפשר לקצר?",
+        "text": "לא. ניתן לקצר כמות בלתי מוגבלת של קישורים – לעשרות או לאלפים. השירות מתאים לשימוש אישי וגם עסקי."
+      },
+      {
+        "name": "אפשר לערוך קישור קצר אחרי שיצרתי אותו?",
+        "text": "כן. ניתן לעדכן את כתובת היעד של הקישור הקצר, לשנות את השם המותאם או למחוק אותו לגמרי. השליטה המלאה בידיים שלכם."
+      },
+      {
+        "name": "מה היתרונות לעומת Bitly, TinyURL ודידלי?",
+        "text": "השירות מותאם לשוק הישראלי: ממשק מלא בעברית, תמיכה בשמות מותאמים בעברית, סטטיסטיקות חינמיות וללא הגבלה. אלטרנטיבה פשוטה ונגישה ל-Bitly, TinyURL או דידלי."
+      },
+      {
+        "name": "מה קורה אם הקישור המקורי לא עובד יותר?",
+        "text": "אם הקישור המקורי לא פעיל, הקישור הקצר יפנה לעמוד שגיאה. ניתן לעדכן תמיד את כתובת היעד בקישור חדש ופעיל דרך לוח הניהול."
+      },
+      {
+        "name": "השירות עובד גם במובייל?",
+        "text": "כן. האתר מותאם במלואו למובייל ולטאבלט. אפשר לקצר קישורים, לצפות בסטטיסטיקות ולנהל את כל הקיצורים מכל מכשיר."
+      }
+    ]
+  },
+
+  "en": {
+    "login.title": "Log in to view statistics and track the performance of your links",
+    "home.title": "Welcome to URL-LINK",
+    "home.subtitle": "Shorten URLs – fast, simple, secure, and completely free",
+    "home.description1": "Turn long links into short professional URLs + QR codes",
+    "home.description2": "Track every click, analyze data, and gain insights – all for free",
+    "footer.copyright": "All rights reserved - URL-LINK © 2025",
+    "footer.terms": "Terms",
+    "footer.contact": "Contact",
+    "home.seo.title": "URL shortener | Free link shortener with advanced statistics",
+    "home.seo.description": "Free English URL shortener service with custom short links, a fast and simple alternative to Bitly. Shorten links for WhatsApp, Instagram, Google and more, with real-time click analytics.",
+    "home.faq.title": "Frequently Asked Questions",
+    "home.seo.lang": "en-US",
+    "home.seo.offer.currency": "USD",
+    "home.seo.app.name": "Free URL Shortener",
+    "home.seo.keywords": [
+      "url shortener",
+      "short link",
+      "shorten url",
+      "bitly alternative",
+      "free url shortener",
+      "custom short link",
+      "short link for WhatsApp",
+      "short link for Instagram",
+      "google short link",
+      "free link shortener"
+    ],
+    "home.seo.features": [
+      "Shorten long URLs into clean and simple links",
+      "Create custom short links in English or Hebrew",
+      "Real-time statistics: clicks, devices, traffic sources",
+      "Generate QR codes for any short link",
+      "Share links on WhatsApp, Instagram, and social networks",
+      "Simple dashboard for monitoring and managing links",
+      "Free forever – no signup required, no limits",
+      "Full support for mobile and tablet",
+      "A fast and simple alternative to Bitly, TinyURL, and more"
+    ],
+    "home.seo.faq": [
+      {
+        "name": "How do I shorten a link?",
+        "text": "Paste your long link into the input field and click the shorten button. You'll immediately get a clean short link to share on WhatsApp, Instagram, Facebook, Google, or anywhere else."
+      },
+      {
+        "name": "Is link shortening free?",
+        "text": "Yes. Shortening links is free and unlimited. No registration, no hidden fees."
+      },
+      {
+        "name": "Can I choose a custom short name?",
+        "text": "Yes. You can set your own custom alias instead of a random string, in English or Hebrew."
+      },
+      {
+        "name": "How do I see statistics?",
+        "text": "Every short link has its own real-time dashboard: clicks, countries, devices, traffic sources, and activity hours."
+      },
+      {
+        "name": "Can I shorten links for WhatsApp and Instagram?",
+        "text": "Yes. Paste the link, shorten it, and share. The short link looks professional and gets more clicks."
+      },
+      {
+        "name": "What about security and privacy?",
+        "text": "We don’t collect unnecessary personal data. All links are encrypted and securely stored, with the option to delete them anytime."
+      },
+      {
+        "name": "How long does a short link stay active?",
+        "text": "Forever, unless you delete it from your dashboard."
+      },
+      {
+        "name": "Is there a limit to how many links I can shorten?",
+        "text": "No. Shorten as many links as you like – dozens, hundreds, or thousands."
+      },
+      {
+        "name": "Can I edit a short link after creating it?",
+        "text": "Yes. You can update the destination URL, change the alias, or delete it completely."
+      },
+      {
+        "name": "Why choose this instead of Bitly or TinyURL?",
+        "text": "It’s free, unlimited, simple, and supports Hebrew aliases. A lightweight alternative for both personal and business use."
+      },
+      {
+        "name": "Does it work on mobile?",
+        "text": "Yes. The site is fully responsive and works on phones and tablets."
+      }
+    ]
+  },
+  "es": {
+    "login.title": "Inicia sesión para ver estadísticas y seguir el rendimiento de tus enlaces",
+    "home.title": "Bienvenido a URL-LINK",
+    "home.subtitle": "Acorta URLs – rápido, simple, seguro y completamente gratis",
+    "home.description1": "Convierte enlaces largos en URLs cortas y profesionales + códigos QR",
+    "home.description2": "Sigue cada clic, analiza los datos y obtén información – todo gratis",
+    "footer.copyright": "Todos los derechos reservados - URL-LINK © 2025",
+    "footer.terms": "Términos",
+    "footer.contact": "Contacto",
+    "home.seo.title": "Acortador de enlaces | Acortador de URL gratis con estadísticas avanzadas",
+    "home.seo.description": "Servicio gratuito de acortamiento de enlaces en español con URLs personalizadas. Una alternativa rápida y sencilla a Bitly. Acorta enlaces para WhatsApp, Instagram, Google y más, con estadísticas en tiempo real.",
+    "home.faq.title": "Preguntas frecuentes",
+    "home.seo.lang": "es-ES",
+    "home.seo.offer.currency": "EUR",
+    "home.seo.app.name": "Acortador de enlaces gratis",
+    "home.seo.keywords": [
+      "acortador de url",
+      "acortar enlace",
+      "enlace corto",
+      "alternativa a bitly",
+      "acortador gratis",
+      "enlace personalizado",
+      "enlace corto para WhatsApp",
+      "enlace corto para Instagram",
+      "acortar enlace google",
+      "acortador de enlaces gratis"
+    ],
+    "home.seo.features": [
+      "Acorta URLs largas en enlaces cortos y simples",
+      "Crea enlaces personalizados en español o inglés",
+      "Estadísticas en tiempo real: clics, dispositivos y fuentes de tráfico",
+      "Genera códigos QR para cualquier enlace corto",
+      "Comparte enlaces en WhatsApp, Instagram y más",
+      "Panel sencillo para monitorear y administrar enlaces",
+      "Gratis para siempre – sin registro ni límites",
+      "Soporte completo en móviles y tabletas",
+      "Una alternativa rápida y simple a Bitly, TinyURL y más"
+    ],
+    "home.seo.faq": [
+      {
+        "name": "¿Cómo acorto un enlace?",
+        "text": "Pega tu enlace largo en el campo y haz clic en el botón de acortar. Obtendrás inmediatamente un enlace corto listo para compartir."
+      },
+      {
+        "name": "¿Acortar enlaces es gratis?",
+        "text": "Sí. El acortamiento es totalmente gratuito y sin límites. No necesitas registrarte."
+      },
+      {
+        "name": "¿Puedo elegir un alias personalizado?",
+        "text": "Sí. Puedes definir tu propio alias en lugar de una cadena aleatoria, en español o inglés."
+      },
+      {
+        "name": "¿Cómo veo las estadísticas?",
+        "text": "Cada enlace corto incluye un panel con estadísticas en tiempo real: clics, países, dispositivos y más."
+      },
+      {
+        "name": "¿Puedo acortar enlaces de WhatsApp e Instagram?",
+        "text": "Sí. Solo pega el enlace, acórtalo y compártelo. El enlace corto se ve profesional y obtiene más clics."
+      },
+      {
+        "name": "¿Qué pasa con la seguridad y la privacidad?",
+        "text": "No recopilamos datos personales innecesarios. Todos los enlaces están encriptados y guardados de manera segura, con opción de eliminarlos."
+      },
+      {
+        "name": "¿Cuánto tiempo permanece activo un enlace corto?",
+        "text": "Para siempre, a menos que lo elimines desde tu panel."
+      },
+      {
+        "name": "¿Hay límite de enlaces que puedo acortar?",
+        "text": "No. Puedes acortar tantos enlaces como quieras."
+      },
+      {
+        "name": "¿Puedo editar un enlace corto después de crearlo?",
+        "text": "Sí. Puedes actualizar la URL de destino, cambiar el alias o eliminarlo completamente."
+      },
+      {
+        "name": "¿Por qué elegir esto en lugar de Bitly o TinyURL?",
+        "text": "Es gratis, ilimitado, simple y soporta alias personalizados. Una alternativa ligera para uso personal y empresarial."
+      },
+      {
+        "name": "¿Funciona en móviles?",
+        "text": "Sí. El sitio es totalmente responsivo y funciona en móviles y tabletas."
+      }
+    ]
+  }
+}

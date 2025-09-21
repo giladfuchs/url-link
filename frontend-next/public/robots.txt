@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://my.url-link.org/report/sitemap.xml

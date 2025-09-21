@@ -1,0 +1,28 @@
+.auth-btn {
+  display: inline-flex;
+  align-items: center;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  border: 0.0625rem solid #dadce0;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.1);
+  padding: 0.7rem 0.3rem;
+  font-size: 0.9rem;
+}
+@media (min-width: 300px) {
+  .auth-btn {
+    padding: 0.7rem 1.5rem;
+    font-size: 1rem;
+  }
+}
+@media (min-width: 465px) {
+  .auth-btn {
+    padding: 0.7rem 1.5rem;
+    font-size: 1rem;
+  }
+}
+.auth-btn.google {
+  gap: 0.75rem;
+  background-color: #fff;
+  color: #3c4043;
+}

@@ -1,0 +1,1153 @@
+{
+  "he": {
+    "language_change": "שנה שפה",
+    "login": {
+      "description1": "התחברות מהירה בלחיצה אחת",
+      "description2": "לחיצה אחת ואתם בפנים – בלי סיסמאות מיותרות",
+      "google": "התחברו עם Google",
+      "facebook": "התחברו עם Facebook",
+      "title": "התחברו כדי לצפות בסטטיסטיקות ולעקוב אחרי הביצועים של הקישורים שלכם"
+    },
+    "panel": {
+      "user": {
+        "title": "משתמשים",
+        "add": "הוסף משתמש"
+      },
+      "link": {
+        "title": "קישורים",
+        "add": "הוסף קישור"
+      },
+      "visit": {
+        "title": "ביקורים",
+        "add": "הוסף ביקור"
+      },
+      "search": {
+        "placeholder": "חיפוש..."
+      }
+    },
+    "copy": {
+      "clipboard": "📎 הכתובת העותקה בהצלחה!"
+    },
+    "button": {
+      "home": "מעבר לדף הבית"
+    },
+    "download": {
+      "qr": "הורד תמונת QR"
+    },
+    "report": {
+      "publicNotice": "אינך מחובר/ת כמשתמש, אך ניתן לעקוב אחרי הביצועים דרך הקישור הציבורי הבא",
+      "bottomNotice": "ראה קוד QR ופילוחים בתחתית העמוד",
+      "topNotice": "דוח נתונים מפורטים  + QR קוד בתחתית העמוד",
+      "title1": "מעקב ביצועים - חודש אחרון",
+      "title2": "לחצו על כל נקודה בגרף כדי לראות מה קרה באותו יום"
+    },
+    "form": {
+      "button": {
+        "back": "הקודם ←",
+        "submit": "שלח"
+      },
+      "add": {
+        "user": "הוספת משתמש",
+        "link": "הוספת קישור",
+        "visit": "הוספת ביקור"
+      },
+      "edit": {
+        "user": "עריכת משתמש",
+        "link": "עריכת קישור",
+        "visit": "עריכת ביקור"
+      },
+      "success": "✅ נשמר בהצלחה!",
+      "error": {
+        "general": "שמירה נכשלה",
+        "required": {
+          "dynamic": "השדה {field} הוא חובה"
+        },
+        "unique": "הקיצור שבחרת כבר קיים במערכת"
+      },
+      "label": {
+        "url": "כתובת מקור URL",
+        "alias": "כתובת מקוצרת (אופציונלי)"
+      },
+      "placeholder": {
+        "url": "הדביקו כאן כתובת מלאה (https://…)",
+        "alias": "בחרו שם מקוצר… או השאירו ריק",
+        "active": "פעיל"
+      },
+      "helper": {
+        "url": "לדוגמה: https://example.com/long_url",
+        "alias": "אפשר להשאיר ריק ליצירה אוטומטית\nהשתמשו בתווים: a–z, A–Z, 0–9, א–ת, . _ -"
+      }
+    },
+    "image": {
+      "copy": {
+        "success": "📋 הועתק ללוח!"
+      }
+    },
+    "validate": {
+      "alias": {
+        "required": "נדרש להזין קיצור",
+        "length": "הקיצור לא יכול להיות ארוך מ־30 תווים",
+        "charset": "הקיצור יכול להכיל רק אותיות, מספרים, נקודה (.), קו אמצעי (-) או קו תחתון (_)"
+      },
+      "url": {
+        "problem": "הכתובת האתר שהוזנה אינה תקינה"
+      }
+    },
+    "table": {
+      "subtitleClicksUniques": "ביצועי הקליקים והיחודיים בחצי השנה האחרונה",
+      "headerName": {
+        "id": "פעולות",
+        "name": "שם",
+        "email": "אימייל",
+        "alias": "כתובת מקוצרת",
+        "url": "כתובת מקור URL",
+        "active": "פעיל",
+        "created_at": "נוצר ב־",
+        "updated_at": "עודכן ב־",
+        "clicks": "קליקים",
+        "uniques": "ייחודיים"
+      }
+    },
+    "country": "מדינה",
+    "region": "אזור",
+    "city": "עיר",
+    "referrer": "מקור הפניה",
+    "device": "מכשיר",
+    "os": "מערכת הפעלה",
+    "browser": "דפדפן",
+    "delete": {
+      "title": "למחוק את {title}?",
+      "description": "פעולה זו אינה הפיכה.",
+      "cascadeWarning": "מחיקת הקטגוריה תמחק גם את כל המוצרים הקשורים אליה",
+      "success": "{title} נמחק בהצלחה",
+      "error": "נכשל למחוק את {title}",
+      "cancel": "ביטול",
+      "confirm": "מחק"
+    },
+    "search": {
+      "admin": "ניהול",
+      "logout": "התנתקות"
+    },
+    "logout": {
+      "success": "התנתקת בהצלחה"
+    },
+    "notFound": {
+      "title": "404 - עמוד לא נמצא",
+      "description": "העמוד שחיפשת לא קיים.",
+      "backHome": "חזור לעמוד הבית"
+    },
+    "errorPage": {
+      "title": "אוי לא!",
+      "message": "אירעה תקלה באתר. ייתכן שמדובר בתקלה זמנית, נסה שוב.",
+      "retry": "נסה שוב"
+    },
+    "accessibility": {
+      "title": "כלי נגישות",
+      "textSize": "גודל טקסט",
+      "contrast": "ניגודיות גבוהה",
+      "grayscale": "גווני אפור",
+      "underline": "קו תחתון לקישורים",
+      "zoomIn": "הגדל טקסט",
+      "zoomOut": "הקטן טקסט",
+      "invert": "ניגודיות הפוכה",
+      "lightBackground": "רקע בהיר",
+      "readableFont": "פונט קריא",
+      "reset": "איפוס"
+    },
+    "terms": {
+      "1": {
+        "title": "1. מבוא והגדרות",
+        "p1": {
+          "lead": "1.1 מבוא:",
+          "text": "תנאי שימוש ומדיניות פרטיות אלה (\"התקנון\") מסדירים את השימוש באתר URL-LINK.ORG (\"האתר\"), לרבות השירותים הניתנים בו. קריאה ושימוש באתר מהווים הסכמה מלאה ובלתי מותנית לכל תנאי התקנון. אם אינך מסכים לתנאי התקנון, כולם או חלקם, אינך רשאי לעשות שימוש באתר."
+        },
+        "p2": {
+          "lead": "1.2 הגדרות:"
+        },
+        "def": {
+          "1": "״האתר״ – פלטפורמת קיצור כתובות אינטרנט, יצירת קודי QR ושירותי ניתוח סטטיסטיקות, המופעלת תחת הדומיין URL-LINK.ORG.",
+          "2": "״המפעיל״ – בעלי האתר ומנהליו.",
+          "3": "״המשתמש/ים״ – כל אדם או גוף העושה שימוש באתר או בשירותים הניתנים בו.",
+          "4": "״השירותים״ – קיצור קישורים, יצירת קודי QR, מעקב אחר קליקים ונתוני שימוש.",
+          "5": "״תוכן״ – כל מידע, טקסט, תמונה, וידאו, קוד, גרפיקה או חומר אחר המוצג באתר או מועלה אליו."
+        }
+      },
+      "2": {
+        "title": "2. תוקף ושינוי התקנון",
+        "p1": {
+          "lead": "2.1 תוקף התקנון:",
+          "text": "גלישה ושימוש באתר מהווים הסכמה מלאה לכל תנאי התקנון, לרבות תנאים מפורשים ומשתמעים."
+        },
+        "p2": {
+          "lead": "2.2 שינוי התקנון:",
+          "text": "המפעיל רשאי לשנות, לעדכן או לתקן את התקנון בכל עת וללא הודעה מוקדמת. כל שינוי ייכנס לתוקף עם פרסומו באתר; המשך שימוש באתר מהווה הסכמה לנוסח המעודכן."
+        }
+      },
+      "3": {
+        "title": "3. רישיון שימוש",
+        "p1": {
+          "lead": "3.1 הגבלת השימוש:",
+          "text": "ניתן רישיון אישי, מוגבל, לא בלעדי ולא ניתן להעברה לשימוש בשירותים לצרכים אישיים בלבד, בכפוף לכל תנאי התקנון."
+        },
+        "p2": {
+          "lead": "3.2 איסורים:"
+        },
+        "li": {
+          "1": "העתקה, שכפול, מכירה, השכרה, הפצה או יצירת עבודות נגזרות מהשירותים או מהתוכן.",
+          "2": "הנדסה הפוכה, עקיפת מנגנוני אבטחה, שימוש בבוטים, Scraping או כל איסוף אוטומטי של נתונים.",
+          "3": "קיצור/העלאת תוכן בלתי חוקי, ספאם, תוכנות זדוניות, תכנים פוגעניים או מפרי זכויות."
+        }
+      },
+      "4": {
+        "title": "4. תיאור השירותים והגבלת אחריות",
+        "p1": {
+          "lead": "4.1 אופי השירותים:",
+          "text": "השירותים ניתנים במצבם הנוכחי (\"As Is\" ו-\"As Available\") ללא כל אחריות, מפורשת או משתמעת. המפעיל אינו מתחייב לזמינות מתמדת, לדיוק הנתונים, להתאמה למטרה מסוימת או להיעדר הפרות."
+        },
+        "p2": {
+          "lead": "4.2 סמכות המפעיל:",
+          "text": "המפעיל רשאי להסיר, להגביל או לחסום כל תוכן או קישור החשודים כמפרים את התקנון, בכל עת וללא צורך במתן הודעה מוקדמת."
+        },
+        "p3": {
+          "lead": "4.3 קישורים חיצוניים:",
+          "text": "האתר עשוי לכלול קישורים לאתרים אחרים המופעלים על ידי צדדים שלישיים. המפעיל אינו אחראי לתוכן, לאבטחה, למדיניות פרטיות או לזמינות באתרים אלה. השימוש בהם הוא על אחריות המשתמש בלבד."
+        }
+      },
+      "5": {
+        "title": "5. פרטיות ואבטחת מידע",
+        "p1": {
+          "lead": "5.1 איסוף מידע:",
+          "text": "האתר עשוי לאסוף נתוני שימוש סטטיסטיים ואגרגטיביים (כגון נתוני שימוש והקלקות) שאינם מזהים אישית, לשיפור השירות."
+        },
+        "p2": {
+          "lead": "5.2 שימוש במידע אישי:",
+          "text": "מידע אישי שנמסר על ידי המשתמש (כגון שם או כתובת דוא\"ל) יישמר במאגר המפעיל וישמש אך ורק לתפעול האתר, יצירת קשר עם המשתמש, מתן שירותי דיוור בהסכמה ושיפור השירותים. ניתן לבקש הסרה מדיוור בכל עת."
+        },
+        "p3": {
+          "lead": "5.3 שמירה על סודיות והעברת מידע:",
+          "text": "המפעיל מתחייב לשמור על סודיות המידע האישי ולא להעבירו לצדדים שלישיים, אלא אם נדרש על פי דין, צו שיפוטי או בהסכמת המשתמש."
+        },
+        "p4": {
+          "lead": "5.4 אמצעי אבטחה:",
+          "text": "המפעיל נוקט באמצעי אבטחה מקובלים (כגון שימוש ב-SSL ואבטחת שרתים). עם זאת, אין התחייבות להגנה מוחלטת מפני פריצות, תקלות או כשלים, והמפעיל לא יישא באחריות לנזקים עקב אירועים כאמור."
+        }
+      },
+      "6": {
+        "title": "6. קניין רוחני",
+        "p1": {
+          "lead": "6.1 זכויות המפעיל:",
+          "text": "כל זכויות הקניין הרוחני באתר, לרבות קוד, עיצוב, טקסטים, גרפיקות, סימנים מסחריים וסודות מסחריים, הן בבעלות המפעיל בלבד. אין להעתיק, לשכפל, להפיץ או לעשות שימוש בתכנים באתר ללא אישור מפורש ובכתב מהמפעיל."
+        },
+        "p2": {
+          "lead": "6.2 זכויות משתמשים:",
+          "text": "המשתמש אחראי באופן בלעדי לתוכן שהוא מקצר/מעלה ומצהיר כי אינו מפר זכויות קניין רוחני של צד שלישי."
+        }
+      },
+      "7": {
+        "title": "7. הגבלת אחריות ושיפוי",
+        "p1": {
+          "lead": "7.1 הגבלת אחריות:",
+          "text": "המפעיל, מנהליו, עובדיו, בעלי מניותיו וספקיו לא יישאו בכל אחריות מכל סוג שהוא, ישירה או עקיפה, עקב שימוש באתר או בשירותים, לרבות השבתות, תקלות, אובדן נתונים, וירוסים או הסתמכות על תכנים באתר."
+        },
+        "p2": {
+          "lead": "7.2 שיפוי:",
+          "text": "המשתמש מתחייב לשפות ולפצות את המפעיל, עובדיו ונושאי המשרה בו בגין כל נזק, הפסד או הוצאה (לרבות שכר טרחת עו\"ד) שייגרמו עקב הפרת התקנון, שימוש בלתי חוקי בשירותים או הפרת זכויות צד שלישי."
+        }
+      },
+      "8": {
+        "title": "8. סמכות שיפוט",
+        "p1": {
+          "text": "התקנון וכל מחלוקת הנוגעת אליו יידונו לפי דיני מדינת ישראל בלבד ולבתי המשפט המוסמכים במחוז תל-אביב-יפו נתונה סמכות השיפוט הבלעדית."
+        }
+      },
+      "9": {
+        "title": "9. הסכמה כוללת",
+        "p1": {
+          "text": "השימוש באתר מהווה אישור והסכמה מלאה לכל התנאים במסמך זה."
+        }
+      },
+      "accessibility": {
+        "title": "הצהרת נגישות",
+        "intro": "אנו מחויבים לספק אתר נגיש לכלל המשתמשים, כולל אנשים עם מוגבלויות. האתר נבנה בהתאם לתקני הנגישות ותומך בפונקציות הבאות:",
+        "contact": "אם נתקלתם בבעיה כלשהי בנגישות האתר, אנא פנו אלינו לכתובת {email}"
+      },
+      "section": {
+        "contact": "יצירת קשר"
+      },
+      "contact": "לשאלות או הבהרות בקשר לתקנון ניתן לפנות אלינו בדוא\"ל: {email}",
+      "remove": {
+        "title": "מחיקת נתונים – פייסבוק",
+        "intro": "במידה והתחברת לאתר URL-LINK.ORG באמצעות חשבון פייסבוק, באפשרותך לבקש מחיקה של נתוניך האישיים.",
+        "instruction": "לצורך מחיקת נתוניך, שלח לנו בקשה במייל הכוללת את פרטי החשבון שלך, ואנו נמחק את המידע המשויך בתוך זמן סביר בהתאם לדין.",
+        "contact": "לבקשות מחיקה ניתן לפנות אלינו בדוא\"ל: {email}"
+      },
+      "title": "תנאי שימוש ומדיניות פרטיות – URL-LINK.ORG",
+      "last_update": "תאריך עדכון אחרון"
+    },
+    "home": {
+      "title": "ברוכים הבאים URL-LINK",
+      "subtitle": "קיצור כתובות אינטרנט – מהיר, פשוט, מאובטח וחינמי לחלוטין",
+      "description1": "הפכו לינקים ארוכים לכתובות קצרות ומקצועיות + קוד QR",
+      "description2": "עקבו אחר כל קליק, נתחו נתונים וקבלו תובנות – הכול בחינם",
+      "seo": {
+        "title": "קיצור לינק | קיצור קישור בחינם עם סטטיסטיקות מתקדמות",
+        "description": "שירות קיצור לינקים וקישורים בחינם בעברית עם אפשרות לקיצור url מותאם אישית, אלטרנטיבה מהירה ופשוטה ל-Bitly. קצרו קישורים לוואטסאפ, אינסטגרם, גוגל ועוד, וקבלו סטטיסטיקות מלאות בזמן אמת על כל קליק.",
+        "lang": "he-IL",
+        "offer": {
+          "currency": "ILS"
+        },
+        "app": {
+          "name": "קיצור לינקים בחינם"
+        },
+        "keywords": [
+          "קיצור לינק",
+          "קיצור קישור",
+          "קיצור לינקים",
+          "קיצור url",
+          "bit קיצור לינק",
+          "ביטלי קיצור לינק",
+          "קיצור לינק בחינם",
+          "קיצור לינק בהתאמה אישית",
+          "קיצור לינק לוואטסאפ",
+          "קיצור לינק לאינסטגרם",
+          "קיצור לינק גוגל",
+          "קיצור קישור וואטסאפ",
+          "קיצור קישור גוגל",
+          "קיצור קישור בחינם",
+          "קיצור קישור ביטלי",
+          "קיצור קישור אינטרנט",
+          "דידלי"
+        ],
+        "features": [
+          "קיצור לינקים ו-URL ארוכים לקישורים קצרים ונוחים",
+          "יצירת קישורים מותאמים אישית בעברית ובאנגלית",
+          "סטטיסטיקות בזמן אמת: מספר קליקים, מכשירים ומקורות תנועה",
+          "אפשרות לייצר QR Code ישירות מכל קישור מקוצר",
+          "שיתוף קישורים מקוצרים בוואטסאפ, אינסטגרם ורשתות חברתיות נוספות",
+          "ממשק ניהול פשוט לניטור ומעקב אחרי הקישורים",
+          "שירות חינמי לתמיד – ללא הרשמה וללא הגבלה במספר הקישורים",
+          "תמיכה מלאה במובייל ובטאבלט",
+          "אלטרנטיבה ישראלית מהירה ופשוטה ל-Bitly, TinyURL ודידלי"
+        ],
+        "faq": [
+          {
+            "name": "איך מקצרים לינק או קישור באתר?",
+            "text": "מדביקים את הקישור הארוך בשדה הקלט ולוחצים על כפתור הקיצור. מיד מתקבל קישור קצר ונקי לשיתוף בוואטסאפ, אינסטגרם, פייסבוק, גוגל וכל רשת אחרת. התהליך מהיר ופשוט."
+          },
+          {
+            "name": "האם קיצור לינק הוא בחינם?",
+            "text": "כן. קיצור לינקים וקישורים ניתן בחינם וללא הגבלה על מספר הקיצורים. אין צורך בהרשמה ואין עלויות נסתרות."
+          },
+          {
+            "name": "אפשר לבחור שם מותאם אישי לקישור?",
+            "text": "כן. ניתן לבחור שם קצר בעברית או באנגלית במקום רצף תווים אקראי. זה הופך את הקישור לייחודי, מקצועי וקל יותר לזכירה. לדוגמה: האתר-שלי/url-link.org"
+          },
+          {
+            "name": "איך מקבלים סטטיסטיקות על הקליקים?",
+            "text": "כל קישור מקוצר מגיע עם לוח סטטיסטיקות בזמן אמת: מספר קליקים, מדינות, מכשירים, מקורות תנועה ושעות פעילות. כלי חיוני לניהול קמפיינים דיגיטליים."
+          },
+          {
+            "name": "איך מקצרים לינקים לוואטסאפ ואינסטגרם?",
+            "text": "מדביקים את הקישור לוואטסאפ, אינסטגרם או כל פלטפורמה אחרת בשדה, מקצרים ומשתפים ישירות. הקישור הקצר נראה מקצועי, תופס פחות מקום ומעודד יותר לחיצות."
+          },
+          {
+            "name": "מה לגבי אבטחה ופרטיות של הקישורים?",
+            "text": "המערכת לא אוספת מידע אישי מיותר ופועלת עם הצפנה מתקדמת. כל הקישורים נשמרים בצורה מאובטחת עם אפשרות למחיקה בכל עת."
+          },
+          {
+            "name": "כמה זמן קישור קצר נשאר פעיל?",
+            "text": "קישורים קצרים נשארים פעילים ללא הגבלת זמן. כל עוד לא מחקתם אותם בלוח הניהול – הקישור ממשיך לעבוד."
+          },
+          {
+            "name": "יש מגבלה על כמות הקישורים שאפשר לקצר?",
+            "text": "לא. ניתן לקצר כמות בלתי מוגבלת של קישורים – לעשרות או לאלפים. השירות מתאים לשימוש אישי וגם עסקי."
+          },
+          {
+            "name": "אפשר לערוך קישור קצר אחרי שיצרתי אותו?",
+            "text": "כן. ניתן לעדכן את כתובת היעד של הקישור הקצר, לשנות את השם המותאם או למחוק אותו לגמרי. השליטה המלאה בידיים שלכם."
+          },
+          {
+            "name": "מה היתרונות לעומת Bitly, TinyURL ודידלי?",
+            "text": "השירות מותאם לשוק הישראלי: ממשק מלא בעברית, תמיכה בשמות מותאמים בעברית, סטטיסטיקות חינמיות וללא הגבלה. אלטרנטיבה פשוטה ונגישה ל-Bitly, TinyURL או דידלי."
+          },
+          {
+            "name": "מה קורה אם הקישור המקורי לא עובד יותר?",
+            "text": "אם הקישור המקורי לא פעיל, הקישור הקצר יפנה לעמוד שגיאה. ניתן לעדכן תמיד את כתובת היעד בקישור חדש ופעיל דרך לוח הניהול."
+          },
+          {
+            "name": "השירות עובד גם במובייל?",
+            "text": "כן. האתר מותאם במלואו למובייל ולטאבלט. אפשר לקצר קישורים, לצפות בסטטיסטיקות ולנהל את כל הקיצורים מכל מכשיר."
+          }
+        ]
+      },
+      "faq": {
+        "title": "שאלות נפוצות"
+      }
+    },
+    "footer": {
+      "copyright": "כל הזכויות שמורות - URL-LINK © 2026",
+      "terms": "תקנון",
+      "contact": "צור קשר"
+    }
+  },
+  "en": {
+    "language_change": "Change language",
+    "login": {
+      "description1": "Quick login with one click",
+      "description2": "One click and you’re in – no extra passwords",
+      "google": "Sign in with Google",
+      "facebook": "Sign in with Facebook",
+      "title": "Log in to view statistics and track the performance of your links"
+    },
+    "panel": {
+      "user": {
+        "title": "Users",
+        "add": "Add User"
+      },
+      "link": {
+        "title": "Links",
+        "add": "Add Link"
+      },
+      "visit": {
+        "title": "Visits",
+        "add": "Add Visit"
+      },
+      "search": {
+        "placeholder": "Search..."
+      }
+    },
+    "copy": {
+      "clipboard": "📎 Link copied successfully!"
+    },
+    "button": {
+      "home": "Go to Homepage"
+    },
+    "download": {
+      "qr": "Download QR Image"
+    },
+    "report": {
+      "publicNotice": "You are not logged in, but you can track performance via this public link",
+      "bottomNotice": "See QR code and breakdowns at the bottom of the page",
+      "topNotice": "Detailed data report + QR code at the bottom",
+      "title1": "Performance Tracking - Last Month",
+      "title2": "Click any point on the graph to see what happened that day"
+    },
+    "form": {
+      "button": {
+        "back": "← Back",
+        "submit": "Submit"
+      },
+      "add": {
+        "user": "Add User",
+        "link": "Add Link",
+        "visit": "Add Visit"
+      },
+      "edit": {
+        "user": "Edit User",
+        "link": "Edit Link",
+        "visit": "Edit Visit"
+      },
+      "success": "✅ Saved successfully!",
+      "error": {
+        "general": "Save failed",
+        "required": {
+          "dynamic": "{field} is required"
+        },
+        "unique": "The chosen alias already exists"
+      },
+      "label": {
+        "url": "Original URL",
+        "alias": "Short alias (optional)"
+      },
+      "placeholder": {
+        "url": "Paste full URL here (https://…)",
+        "alias": "Choose a short alias… or leave blank",
+        "active": "Active"
+      },
+      "helper": {
+        "url": "Example: https://example.com/long_url",
+        "alias": "Leave blank for automatic creation\nAllowed characters: a–z, A–Z, 0–9, . _ -"
+      }
+    },
+    "image": {
+      "copy": {
+        "success": "📋 Copied to clipboard!"
+      }
+    },
+    "validate": {
+      "alias": {
+        "required": "Alias is required",
+        "length": "Alias cannot exceed 30 characters",
+        "charset": "Alias can contain only letters, numbers, dot (.), dash (-), or underscore (_)"
+      },
+      "url": {
+        "problem": "The provided URL is invalid"
+      }
+    },
+    "table": {
+      "subtitleClicksUniques": "Clicks and uniques performance over the last 6 months",
+      "headerName": {
+        "id": "Actions",
+        "name": "Name",
+        "email": "Email",
+        "alias": "Short Alias",
+        "url": "Original URL",
+        "active": "Active",
+        "created_at": "Created At",
+        "updated_at": "Updated At",
+        "clicks": "Clicks",
+        "uniques": "Uniques"
+      }
+    },
+    "country": "Country",
+    "region": "Region",
+    "city": "City",
+    "referrer": "Referrer",
+    "device": "Device",
+    "os": "Operating System",
+    "browser": "Browser",
+    "delete": {
+      "title": "Delete {title}?",
+      "description": "This action cannot be undone.",
+      "cascadeWarning": "Deleting the category will also delete all related products",
+      "success": "{title} deleted successfully",
+      "error": "Failed to delete {title}",
+      "cancel": "Cancel",
+      "confirm": "Delete"
+    },
+    "search": {
+      "admin": "Admin",
+      "logout": "Logout"
+    },
+    "logout": {
+      "success": "Logged out successfully"
+    },
+    "notFound": {
+      "title": "404 - Page Not Found",
+      "description": "The page you are looking for does not exist.",
+      "backHome": "Back to Homepage"
+    },
+    "errorPage": {
+      "title": "Oops!",
+      "message": "An error occurred. It might be temporary, please try again.",
+      "retry": "Try Again"
+    },
+    "accessibility": {
+      "title": "Accessibility Tools",
+      "textSize": "Text Size",
+      "contrast": "High Contrast",
+      "grayscale": "Grayscale",
+      "underline": "Underline Links",
+      "zoomIn": "Zoom In",
+      "zoomOut": "Zoom Out",
+      "invert": "Invert Colors",
+      "lightBackground": "Light Background",
+      "readableFont": "Readable Font",
+      "reset": "Reset"
+    },
+    "terms": {
+      "1": {
+        "title": "1. Introduction and Definitions",
+        "p1": {
+          "lead": "1.1 Introduction:",
+          "text": "These Terms of Use and Privacy Policy (\"the Terms\") govern the use of the URL-LINK.ORG website (\"the Site\"), including the services provided therein. Reading and using the Site constitutes full and unconditional acceptance of all the Terms. If you do not agree to any or all of the Terms, you may not use the Site."
+        },
+        "p2": {
+          "lead": "1.2 Definitions:"
+        },
+        "def": {
+          "1": "\"The Site\" – A platform for URL shortening, QR code generation, and statistics analysis, operated under the domain URL-LINK.ORG.",
+          "2": "\"The Operator\" – The owners and administrators of the Site.",
+          "3": "\"User(s)\" – Any person or entity using the Site or its services.",
+          "4": "\"Services\" – URL shortening, QR code generation, click tracking, and usage data.",
+          "5": "\"Content\" – Any information, text, image, video, code, graphics, or other material displayed on or uploaded to the Site."
+        }
+      },
+      "2": {
+        "title": "2. Validity and Changes to the Terms",
+        "p1": {
+          "lead": "2.1 Validity:",
+          "text": "Browsing and using the Site constitutes full acceptance of all the Terms, including explicit and implied conditions."
+        },
+        "p2": {
+          "lead": "2.2 Changes:",
+          "text": "The Operator may change, update, or amend the Terms at any time without prior notice. Any change takes effect upon publication on the Site; continued use of the Site constitutes acceptance of the updated Terms."
+        }
+      },
+      "3": {
+        "title": "3. License of Use",
+        "p1": {
+          "lead": "3.1 Usage Restriction:",
+          "text": "A personal, limited, non-exclusive, non-transferable license is granted for personal use of the Services, subject to these Terms."
+        },
+        "p2": {
+          "lead": "3.2 Prohibitions:"
+        },
+        "li": {
+          "1": "Copying, duplication, sale, rental, distribution, or creation of derivative works from the Services or Content.",
+          "2": "Reverse engineering, bypassing security mechanisms, use of bots, scraping, or any automated data collection.",
+          "3": "Shortening/uploading illegal content, spam, malware, offensive or infringing content."
+        }
+      },
+      "4": {
+        "title": "4. Description of Services and Disclaimer",
+        "p1": {
+          "lead": "4.1 Nature of the Services:",
+          "text": "The Services are provided as-is and as-available without any warranties, expressed or implied. The Operator does not guarantee continuous availability, accuracy, fitness for a particular purpose, or freedom from violations."
+        },
+        "p2": {
+          "lead": "4.2 Operator’s Authority:",
+          "text": "The Operator may remove, restrict, or block any content or link suspected of violating the Terms at any time without notice."
+        },
+        "p3": {
+          "lead": "4.3 External Links:",
+          "text": "The Site may include links to third-party websites. The Operator is not responsible for their content, security, privacy policy, or availability. Use of them is at the user’s sole risk."
+        }
+      },
+      "5": {
+        "title": "5. Privacy and Data Security",
+        "p1": {
+          "lead": "5.1 Data Collection:",
+          "text": "The Site may collect statistical and aggregated usage data (such as usage and clicks) that do not personally identify users, for the purpose of improving the service."
+        },
+        "p2": {
+          "lead": "5.2 Use of Personal Information:",
+          "text": "Personal information provided by the user (such as name or email address) will be stored in the Operator’s database and used only for operating the Site, contacting the user, providing mailing services with consent, and improving the services. Removal from mailing lists can be requested at any time."
+        },
+        "p3": {
+          "lead": "5.3 Confidentiality and Data Transfer:",
+          "text": "The Operator undertakes to keep personal information confidential and not transfer it to third parties, except as required by law, court order, or with the user’s consent."
+        },
+        "p4": {
+          "lead": "5.4 Security Measures:",
+          "text": "The Operator uses accepted security measures (such as SSL and server security). However, no guarantee of absolute protection against hacks, failures, or malfunctions is made, and the Operator will not be liable for damages caused by such events."
+        }
+      },
+      "6": {
+        "title": "6. Intellectual Property",
+        "p1": {
+          "lead": "6.1 Operator’s Rights:",
+          "text": "All intellectual property rights in the Site, including code, design, texts, graphics, trademarks, and trade secrets, are owned solely by the Operator. No copying, duplication, distribution, or use of content is permitted without prior written consent of the Operator."
+        },
+        "p2": {
+          "lead": "6.2 User Rights:",
+          "text": "The user is solely responsible for the content they shorten/upload and declares they do not infringe any third-party intellectual property rights."
+        }
+      },
+      "7": {
+        "title": "7. Limitation of Liability and Indemnification",
+        "p1": {
+          "lead": "7.1 Limitation of Liability:",
+          "text": "The Operator, its directors, employees, shareholders, and suppliers shall not be liable for any damages of any kind, direct or indirect, resulting from the use of the Site or Services, including outages, malfunctions, data loss, viruses, or reliance on content."
+        },
+        "p2": {
+          "lead": "7.2 Indemnification:",
+          "text": "The user agrees to indemnify and compensate the Operator, its employees, and officers for any damage, loss, or expense (including attorney fees) caused by breach of the Terms, illegal use of the Services, or infringement of third-party rights."
+        }
+      },
+      "8": {
+        "title": "8. Jurisdiction",
+        "p1": {
+          "text": "These Terms and any dispute related to them shall be governed by the laws of the State of Israel only, with exclusive jurisdiction vested in the competent courts of the Tel Aviv–Jaffa district."
+        }
+      },
+      "9": {
+        "title": "9. Full Agreement",
+        "p1": {
+          "text": "Use of the Site constitutes full acknowledgment and acceptance of all conditions in this document."
+        }
+      },
+      "accessibility": {
+        "title": "Accessibility Statement",
+        "intro": "We are committed to providing an accessible website for all users, including people with disabilities. The site was built according to accessibility standards and supports the following features:",
+        "contact": "If you encounter any accessibility issues, please contact us at {email}"
+      },
+      "section": {
+        "contact": "Contact"
+      },
+      "contact": "For questions or clarifications regarding the terms, you can contact us by email: {email}",
+      "remove": {
+        "title": "Data Deletion – Facebook",
+        "intro": "If you logged into URL-LINK.ORG using your Facebook account, you may request deletion of your personal data.",
+        "instruction": "To delete your data, send us an email with your account details, and we will remove it within a reasonable time according to the law.",
+        "contact": "For deletion requests, contact us by email: {email}"
+      },
+      "title": "Terms of Use and Privacy Policy – URL-LINK.ORG",
+      "last_update": "Last updated"
+    },
+    "home": {
+      "title": "Welcome to URL-LINK",
+      "subtitle": "Shorten URLs – fast, simple, secure, and completely free",
+      "description1": "Turn long links into short professional URLs + QR codes",
+      "description2": "Track every click, analyze data, and gain insights – all for free",
+      "seo": {
+        "title": "URL shortener | Free link shortener with advanced statistics",
+        "description": "Free English URL shortener service with custom short links, a fast and simple alternative to Bitly. Shorten links for WhatsApp, Instagram, Google and more, with real-time click analytics.",
+        "lang": "en-US",
+        "offer": {
+          "currency": "USD"
+        },
+        "app": {
+          "name": "Free URL Shortener"
+        },
+        "keywords": [
+          "url shortener",
+          "short link",
+          "shorten url",
+          "bitly alternative",
+          "free url shortener",
+          "custom short link",
+          "short link for WhatsApp",
+          "short link for Instagram",
+          "google short link",
+          "free link shortener"
+        ],
+        "features": [
+          "Shorten long URLs into clean and simple links",
+          "Create custom short links in English or Hebrew",
+          "Real-time statistics: clicks, devices, traffic sources",
+          "Generate QR codes for any short link",
+          "Share links on WhatsApp, Instagram, and social networks",
+          "Simple dashboard for monitoring and managing links",
+          "Free forever – no signup required, no limits",
+          "Full support for mobile and tablet",
+          "A fast and simple alternative to Bitly, TinyURL, and more"
+        ],
+        "faq": [
+          {
+            "name": "How do I shorten a link?",
+            "text": "Paste your long link into the input field and click the shorten button. You'll immediately get a clean short link to share on WhatsApp, Instagram, Facebook, Google, or anywhere else."
+          },
+          {
+            "name": "Is link shortening free?",
+            "text": "Yes. Shortening links is free and unlimited. No registration, no hidden fees."
+          },
+          {
+            "name": "Can I choose a custom short name?",
+            "text": "Yes. You can set your own custom alias instead of a random string, in English or Hebrew."
+          },
+          {
+            "name": "How do I see statistics?",
+            "text": "Every short link has its own real-time dashboard: clicks, countries, devices, traffic sources, and activity hours."
+          },
+          {
+            "name": "Can I shorten links for WhatsApp and Instagram?",
+            "text": "Yes. Paste the link, shorten it, and share. The short link looks professional and gets more clicks."
+          },
+          {
+            "name": "What about security and privacy?",
+            "text": "We don’t collect unnecessary personal data. All links are encrypted and securely stored, with the option to delete them anytime."
+          },
+          {
+            "name": "How long does a short link stay active?",
+            "text": "Forever, unless you delete it from your dashboard."
+          },
+          {
+            "name": "Is there a limit to how many links I can shorten?",
+            "text": "No. Shorten as many links as you like – dozens, hundreds, or thousands."
+          },
+          {
+            "name": "Can I edit a short link after creating it?",
+            "text": "Yes. You can update the destination URL, change the alias, or delete it completely."
+          },
+          {
+            "name": "Why choose this instead of Bitly or TinyURL?",
+            "text": "It’s free, unlimited, simple, and supports Hebrew aliases. A lightweight alternative for both personal and business use."
+          },
+          {
+            "name": "Does it work on mobile?",
+            "text": "Yes. The site is fully responsive and works on phones and tablets."
+          }
+        ]
+      },
+      "faq": {
+        "title": "Frequently Asked Questions"
+      }
+    },
+    "footer": {
+      "copyright": "All rights reserved - URL-LINK © 2026",
+      "terms": "Terms",
+      "contact": "Contact"
+    }
+  },
+  "es": {
+    "language_change": "Cambiar idioma",
+    "login": {
+      "description1": "Inicio de sesión rápido con un solo clic",
+      "description2": "Un clic y estás dentro – sin contraseñas extra",
+      "google": "Iniciar sesión con Google",
+      "facebook": "Iniciar sesión con Facebook",
+      "title": "Inicia sesión para ver estadísticas y seguir el rendimiento de tus enlaces"
+    },
+    "panel": {
+      "user": {
+        "title": "Usuarios",
+        "add": "Agregar Usuario"
+      },
+      "link": {
+        "title": "Enlaces",
+        "add": "Agregar Enlace"
+      },
+      "visit": {
+        "title": "Visitas",
+        "add": "Agregar Visita"
+      },
+      "search": {
+        "placeholder": "Buscar..."
+      }
+    },
+    "copy": {
+      "clipboard": "📎 ¡Enlace copiado con éxito!"
+    },
+    "button": {
+      "home": "Ir a la Página Principal"
+    },
+    "download": {
+      "qr": "Descargar imagen QR"
+    },
+    "report": {
+      "publicNotice": "No has iniciado sesión, pero puedes seguir el rendimiento a través de este enlace público",
+      "bottomNotice": "Ver código QR y detalles al final de la página",
+      "topNotice": "Informe de datos detallado + código QR al final",
+      "title1": "Seguimiento de rendimiento - Último mes",
+      "title2": "Haz clic en cualquier punto del gráfico para ver qué pasó ese día"
+    },
+    "form": {
+      "button": {
+        "back": "← Atrás",
+        "submit": "Enviar"
+      },
+      "add": {
+        "user": "Agregar Usuario",
+        "link": "Agregar Enlace",
+        "visit": "Agregar Visita"
+      },
+      "edit": {
+        "user": "Editar Usuario",
+        "link": "Editar Enlace",
+        "visit": "Editar Visita"
+      },
+      "success": "✅ ¡Guardado con éxito!",
+      "error": {
+        "general": "Error al guardar",
+        "required": {
+          "dynamic": "El campo {field} es obligatorio"
+        },
+        "unique": "El alias elegido ya existe"
+      },
+      "label": {
+        "url": "URL original",
+        "alias": "Alias corto (opcional)"
+      },
+      "placeholder": {
+        "url": "Pega la URL completa aquí (https://…)",
+        "alias": "Elige un alias corto… o deja en blanco",
+        "active": "Activo"
+      },
+      "helper": {
+        "url": "Ejemplo: https://example.com/long_url",
+        "alias": "Deja en blanco para creación automática\nCaracteres permitidos: a–z, A–Z, 0–9, . _ -"
+      }
+    },
+    "image": {
+      "copy": {
+        "success": "📋 ¡Copiado al portapapeles!"
+      }
+    },
+    "validate": {
+      "alias": {
+        "required": "Se requiere alias",
+        "length": "El alias no puede tener más de 30 caracteres",
+        "charset": "El alias solo puede contener letras, números, punto (.), guion (-) o guion bajo (_)"
+      },
+      "url": {
+        "problem": "La URL proporcionada no es válida"
+      }
+    },
+    "table": {
+      "subtitleClicksUniques": "Rendimiento de clics y únicos en los últimos 6 meses",
+      "headerName": {
+        "id": "Acciones",
+        "name": "Nombre",
+        "email": "Correo electrónico",
+        "alias": "Alias corto",
+        "url": "URL original",
+        "active": "Activo",
+        "created_at": "Creado en",
+        "updated_at": "Actualizado en",
+        "clicks": "Clics",
+        "uniques": "Únicos"
+      }
+    },
+    "country": "País",
+    "region": "Región",
+    "city": "Ciudad",
+    "referrer": "Referente",
+    "device": "Dispositivo",
+    "os": "Sistema Operativo",
+    "browser": "Navegador",
+    "delete": {
+      "title": "¿Eliminar {title}?",
+      "description": "Esta acción no se puede deshacer.",
+      "cascadeWarning": "Eliminar la categoría también borrará todos los productos relacionados",
+      "success": "{title} eliminado con éxito",
+      "error": "Error al eliminar {title}",
+      "cancel": "Cancelar",
+      "confirm": "Eliminar"
+    },
+    "search": {
+      "admin": "Administración",
+      "logout": "Cerrar sesión"
+    },
+    "logout": {
+      "success": "Cierre de sesión exitoso"
+    },
+    "notFound": {
+      "title": "404 - Página no encontrada",
+      "description": "La página que buscas no existe.",
+      "backHome": "Volver a la Página Principal"
+    },
+    "errorPage": {
+      "title": "¡Vaya!",
+      "message": "Ocurrió un error. Puede ser temporal, inténtalo de nuevo.",
+      "retry": "Reintentar"
+    },
+    "accessibility": {
+      "title": "Herramientas de accesibilidad",
+      "textSize": "Tamaño del texto",
+      "contrast": "Alto contraste",
+      "grayscale": "Escala de grises",
+      "underline": "Subrayar enlaces",
+      "zoomIn": "Aumentar texto",
+      "zoomOut": "Reducir texto",
+      "invert": "Invertir colores",
+      "lightBackground": "Fondo claro",
+      "readableFont": "Fuente legible",
+      "reset": "Restablecer"
+    },
+    "terms": {
+      "1": {
+        "title": "1. Introducción y Definiciones",
+        "p1": {
+          "lead": "1.1 Introducción:",
+          "text": "Estos Términos de Uso y Política de Privacidad (\"los Términos\") regulan el uso del sitio web URL-LINK.ORG (\"el Sitio\"), incluidos los servicios allí proporcionados. Leer y usar el Sitio constituye aceptación total e incondicional de todos los Términos. Si no está de acuerdo con alguno o todos los Términos, no puede usar el Sitio."
+        },
+        "p2": {
+          "lead": "1.2 Definiciones:"
+        },
+        "def": {
+          "1": "\"El Sitio\" – Plataforma para acortar URL, generar códigos QR y análisis estadístico, operada bajo el dominio URL-LINK.ORG.",
+          "2": "\"El Operador\" – Los propietarios y administradores del Sitio.",
+          "3": "\"Usuario(s)\" – Cualquier persona o entidad que use el Sitio o sus servicios.",
+          "4": "\"Servicios\" – Acortamiento de enlaces, generación de códigos QR, seguimiento de clics y datos de uso.",
+          "5": "\"Contenido\" – Cualquier información, texto, imagen, video, código, gráficos u otro material mostrado o subido al Sitio."
+        }
+      },
+      "2": {
+        "title": "2. Vigencia y Modificación de los Términos",
+        "p1": {
+          "lead": "2.1 Vigencia:",
+          "text": "Navegar y usar el Sitio constituye aceptación total de todos los Términos, incluidas condiciones expresas e implícitas."
+        },
+        "p2": {
+          "lead": "2.2 Modificaciones:",
+          "text": "El Operador puede cambiar, actualizar o enmendar los Términos en cualquier momento sin previo aviso. Cualquier cambio entra en vigor al publicarse en el Sitio; el uso continuado constituye aceptación de los Términos actualizados."
+        }
+      },
+      "3": {
+        "title": "3. Licencia de Uso",
+        "p1": {
+          "lead": "3.1 Restricción de Uso:",
+          "text": "Se concede una licencia personal, limitada, no exclusiva e intransferible para el uso personal de los Servicios, sujeta a estos Términos."
+        },
+        "p2": {
+          "lead": "3.2 Prohibiciones:"
+        },
+        "li": {
+          "1": "Copiar, duplicar, vender, alquilar, distribuir o crear trabajos derivados de los Servicios o Contenido.",
+          "2": "Ingeniería inversa, elusión de mecanismos de seguridad, uso de bots, scraping o cualquier recopilación automatizada de datos.",
+          "3": "Acortar/subir contenido ilegal, spam, software malicioso, contenido ofensivo o que infrinja derechos."
+        }
+      },
+      "4": {
+        "title": "4. Descripción de los Servicios y Limitación de Responsabilidad",
+        "p1": {
+          "lead": "4.1 Naturaleza de los Servicios:",
+          "text": "Los Servicios se proporcionan tal cual y según disponibilidad, sin garantías de ningún tipo, expresas o implícitas. El Operador no garantiza disponibilidad continua, exactitud de los datos, idoneidad para un propósito particular ni ausencia de infracciones."
+        },
+        "p2": {
+          "lead": "4.2 Autoridad del Operador:",
+          "text": "El Operador puede eliminar, restringir o bloquear cualquier contenido o enlace sospechoso de infringir los Términos, en cualquier momento y sin previo aviso."
+        },
+        "p3": {
+          "lead": "4.3 Enlaces Externos:",
+          "text": "El Sitio puede incluir enlaces a sitios de terceros. El Operador no es responsable por su contenido, seguridad, políticas de privacidad o disponibilidad. El uso de estos es bajo responsabilidad exclusiva del usuario."
+        }
+      },
+      "5": {
+        "title": "5. Privacidad y Seguridad de los Datos",
+        "p1": {
+          "lead": "5.1 Recolección de Datos:",
+          "text": "El Sitio puede recopilar datos de uso estadísticos y agregados (como uso y clics) que no identifican personalmente, para mejorar el servicio."
+        },
+        "p2": {
+          "lead": "5.2 Uso de Información Personal:",
+          "text": "La información personal proporcionada por el usuario (como nombre o correo electrónico) se almacenará en la base de datos del Operador y se utilizará únicamente para operar el Sitio, contactar al usuario, proporcionar servicios de correo con su consentimiento y mejorar los servicios. Se puede solicitar la eliminación de listas de correo en cualquier momento."
+        },
+        "p3": {
+          "lead": "5.3 Confidencialidad y Transferencia de Datos:",
+          "text": "El Operador se compromete a mantener la confidencialidad de la información personal y no transferirla a terceros, salvo cuando lo exija la ley, orden judicial o con el consentimiento del usuario."
+        },
+        "p4": {
+          "lead": "5.4 Medidas de Seguridad:",
+          "text": "El Operador utiliza medidas de seguridad reconocidas (como SSL y seguridad de servidores). Sin embargo, no garantiza protección absoluta contra hackeos, fallas o errores, y no será responsable de daños derivados de tales eventos."
+        }
+      },
+      "6": {
+        "title": "6. Propiedad Intelectual",
+        "p1": {
+          "lead": "6.1 Derechos del Operador:",
+          "text": "Todos los derechos de propiedad intelectual del Sitio, incluidos código, diseño, textos, gráficos, marcas comerciales y secretos comerciales, pertenecen únicamente al Operador. No se permite copiar, duplicar, distribuir o usar contenido sin el consentimiento previo y por escrito del Operador."
+        },
+        "p2": {
+          "lead": "6.2 Derechos de los Usuarios:",
+          "text": "El usuario es el único responsable del contenido que acorta/sube y declara que no infringe los derechos de propiedad intelectual de terceros."
+        }
+      },
+      "7": {
+        "title": "7. Limitación de Responsabilidad e Indemnización",
+        "p1": {
+          "lead": "7.1 Limitación de Responsabilidad:",
+          "text": "El Operador, sus directores, empleados, accionistas y proveedores no serán responsables por ningún daño de ningún tipo, directo o indirecto, derivado del uso del Sitio o Servicios, incluidas interrupciones, fallas, pérdida de datos, virus o dependencia de contenidos."
+        },
+        "p2": {
+          "lead": "7.2 Indemnización:",
+          "text": "El usuario se compromete a indemnizar y compensar al Operador, sus empleados y directivos por cualquier daño, pérdida o gasto (incluidos honorarios de abogados) causado por el incumplimiento de los Términos, uso ilegal de los Servicios o infracción de derechos de terceros."
+        }
+      },
+      "8": {
+        "title": "8. Jurisdicción",
+        "p1": {
+          "text": "Los Términos y cualquier disputa relacionada se regirán únicamente por las leyes del Estado de Israel, con jurisdicción exclusiva en los tribunales competentes del distrito de Tel Aviv–Jaffa."
+        }
+      },
+      "9": {
+        "title": "9. Acuerdo Completo",
+        "p1": {
+          "text": "El uso del Sitio constituye aceptación total de todas las condiciones de este documento."
+        }
+      },
+      "accessibility": {
+        "title": "Declaración de accesibilidad",
+        "intro": "Estamos comprometidos a ofrecer un sitio web accesible para todos los usuarios, incluidas las personas con discapacidad. El sitio fue construido según los estándares de accesibilidad y admite las siguientes funciones:",
+        "contact": "Si encuentras algún problema de accesibilidad, contáctanos en {email}"
+      },
+      "section": {
+        "contact": "Contacto"
+      },
+      "contact": "Para preguntas o aclaraciones sobre los términos, puedes contactarnos por correo electrónico: {email}",
+      "remove": {
+        "title": "Eliminación de datos – Facebook",
+        "intro": "Si iniciaste sesión en URL-LINK.ORG con tu cuenta de Facebook, puedes solicitar la eliminación de tus datos personales.",
+        "instruction": "Para eliminar tus datos, envíanos un correo con los detalles de tu cuenta, y los borraremos en un plazo razonable conforme a la ley.",
+        "contact": "Para solicitudes de eliminación, contáctanos por correo electrónico: {email}"
+      },
+      "title": "Términos de Uso y Política de Privacidad – URL-LINK.ORG",
+      "last_update": "Última actualización"
+    },
+    "home": {
+      "title": "Bienvenido a URL-LINK",
+      "subtitle": "Acorta URLs – rápido, simple, seguro y completamente gratis",
+      "description1": "Convierte enlaces largos en URLs cortas y profesionales + códigos QR",
+      "description2": "Sigue cada clic, analiza los datos y obtén información – todo gratis",
+      "seo": {
+        "title": "Acortador de enlaces | Acortador de URL gratis con estadísticas avanzadas",
+        "description": "Servicio gratuito de acortamiento de enlaces en español con URLs personalizadas. Una alternativa rápida y sencilla a Bitly. Acorta enlaces para WhatsApp, Instagram, Google y más, con estadísticas en tiempo real.",
+        "lang": "es-ES",
+        "offer": {
+          "currency": "EUR"
+        },
+        "app": {
+          "name": "Acortador de enlaces gratis"
+        },
+        "keywords": [
+          "acortador de url",
+          "acortar enlace",
+          "enlace corto",
+          "alternativa a bitly",
+          "acortador gratis",
+          "enlace personalizado",
+          "enlace corto para WhatsApp",
+          "enlace corto para Instagram",
+          "acortar enlace google",
+          "acortador de enlaces gratis"
+        ],
+        "features": [
+          "Acorta URLs largas en enlaces cortos y simples",
+          "Crea enlaces personalizados en español o inglés",
+          "Estadísticas en tiempo real: clics, dispositivos y fuentes de tráfico",
+          "Genera códigos QR para cualquier enlace corto",
+          "Comparte enlaces en WhatsApp, Instagram y más",
+          "Panel sencillo para monitorear y administrar enlaces",
+          "Gratis para siempre – sin registro ni límites",
+          "Soporte completo en móviles y tabletas",
+          "Una alternativa rápida y simple a Bitly, TinyURL y más"
+        ],
+        "faq": [
+          {
+            "name": "¿Cómo acorto un enlace?",
+            "text": "Pega tu enlace largo en el campo y haz clic en el botón de acortar. Obtendrás inmediatamente un enlace corto listo para compartir."
+          },
+          {
+            "name": "¿Acortar enlaces es gratis?",
+            "text": "Sí. El acortamiento es totalmente gratuito y sin límites. No necesitas registrarte."
+          },
+          {
+            "name": "¿Puedo elegir un alias personalizado?",
+            "text": "Sí. Puedes definir tu propio alias en lugar de una cadena aleatoria, en español o inglés."
+          },
+          {
+            "name": "¿Cómo veo las estadísticas?",
+            "text": "Cada enlace corto incluye un panel con estadísticas en tiempo real: clics, países, dispositivos y más."
+          },
+          {
+            "name": "¿Puedo acortar enlaces de WhatsApp e Instagram?",
+            "text": "Sí. Solo pega el enlace, acórtalo y compártelo. El enlace corto se ve profesional y obtiene más clics."
+          },
+          {
+            "name": "¿Qué pasa con la seguridad y la privacidad?",
+            "text": "No recopilamos datos personales innecesarios. Todos los enlaces están encriptados y guardados de manera segura, con opción de eliminarlos."
+          },
+          {
+            "name": "¿Cuánto tiempo permanece activo un enlace corto?",
+            "text": "Para siempre, a menos que lo elimines desde tu panel."
+          },
+          {
+            "name": "¿Hay límite de enlaces que puedo acortar?",
+            "text": "No. Puedes acortar tantos enlaces como quieras."
+          },
+          {
+            "name": "¿Puedo editar un enlace corto después de crearlo?",
+            "text": "Sí. Puedes actualizar la URL de destino, cambiar el alias o eliminarlo completamente."
+          },
+          {
+            "name": "¿Por qué elegir esto en lugar de Bitly o TinyURL?",
+            "text": "Es gratis, ilimitado, simple y soporta alias personalizados. Una alternativa ligera para uso personal y empresarial."
+          },
+          {
+            "name": "¿Funciona en móviles?",
+            "text": "Sí. El sitio es totalmente responsivo y funciona en móviles y tabletas."
+          }
+        ]
+      },
+      "faq": {
+        "title": "Preguntas frecuentes"
+      }
+    },
+    "footer": {
+      "copyright": "Todos los derechos reservados - URL-LINK © 2026",
+      "terms": "Términos",
+      "contact": "Contacto"
+    }
+  }
+}
